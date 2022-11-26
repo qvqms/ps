@@ -1,0 +1,1 @@
+import{r as a,a as e,b as t,d as s}from"./index.adfd1ee8.js";const i={class:"weatherWindow flex-col"},r=[s("iframe",{scrolling:"no",src:"https://tianqiapi.com/api.php?style=tw&skin=pitaya",frameborder:"0",width:"300",height:"500",allowtransparency:"true"},null,-1)],n={__name:"weatherWindow",setup:s=>(a(!0),(a,s)=>(e(),t("div",i,r)))};export{n as default};

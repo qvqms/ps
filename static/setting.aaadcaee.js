@@ -1,0 +1,1 @@
+import{J as s,a,b as e,B as t,h as n,U as o,V as c,L as d}from"./index.adfd1ee8.js";const r={class:"container"},u={__name:"setting",setup(u){const i=()=>{o({url:"admin/updateApp"}).then((s=>{1==s.code&&c.success("拉取成功")}))};return(o,c)=>{const u=s("el-button");return a(),e("div",r,[t(u,{onClick:i},{default:n((()=>[d("更新")])),_:1})])}}};export{u as default};
